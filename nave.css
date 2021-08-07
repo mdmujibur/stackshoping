@@ -83,3 +83,31 @@ p{
     cursor: pointer;
 }
 /*close uor navigation section hear */
+/*input field start hear*/
+.reuseable-function{
+    width: 100%;
+    border-radius: o.2rem;
+    background:#ffffff;
+    margin-top:2rem;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.1);
+}
+.add-item_input{
+    width: 100%;
+    padding: 1.5rem 2rem;
+    display: flex;
+    align-items: center;
+    background: #ffffff;
+
+}
+.add-item__icon{
+    width: 1rem;
+    height: auto;
+}
+.add-item__input-field{
+    width: 100%;
+    margin-left:1rem;
+    outline:none;
+    border: none;
+    font-size:1rem;
+    color: #666666;
+}
